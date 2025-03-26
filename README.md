@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # BackendMovielist-elec
-=======
 # 🎬 Backend MovieList (Express.js + MongoDB)
 
 ## 📖 Overview
