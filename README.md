@@ -2,8 +2,7 @@
 # 🎬 Backend MovieList (Express.js + MongoDB)
 
 ## 📖 Overview 
-Backend MovieList is a RESTful API built using **Express.js** and **MongoDB**, allowing users to **fetch, add, and manage movies**, register accounts, **rate movies**, and **write reviews** using **Postman**.  
-All movie data, ratings, and reviews are **automatically stored in MongoDB**, ensuring seamless data persistence.  
+Backend MovieList is a RESTful API built using **Express.js** and **MongoDB**, allowing users to **fetch, add, and manage movies**, register accounts, **rate movies**, and **write reviews** using **Postman**. All movie data, ratings, and reviews are **automatically stored in MongoDB**, ensuring seamless data persistence.  
 
 
 ## 🚀 Features
